@@ -1,0 +1,1069 @@
+{
+	"folder_history":
+	[
+		"/home/lzg/gitlib/huge",
+		"/home/lzg/android5.0/MT8382_L_BD2"
+	],
+	"last_window_id": 2,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pr",
+						"print"
+					],
+					[
+						"fo",
+						"foo"
+					],
+					[
+						"kd_hi",
+						"kd_hi257_poweron"
+					]
+				]
+			},
+			"build_system": "Packages/Makefile/Make.sublime-build",
+			"command_palette":
+			{
+				"height": 75.0,
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"make",
+						"Set Syntax: Makefile"
+					],
+					[
+						"intall",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 153.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/lzg/gitlib/1.py",
+				"/home/lzg/gitlib/huge/source/foo/src/foo.h",
+				"/home/lzg/gitlib/huge/source/foo/src/foo.c",
+				"/home/lzg/.config/sublime-text-2/Packages/User/huge.sublime-build",
+				"/home/lzg/gitlib/huge/build/bulid.sublime-build",
+				"/home/lzg/android5.0/sublimeconfig/MT8382.sublime-project",
+				"/home/lzg/gitlib/first/source/file2.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/drivers/misc/mediatek/lcm/mt65xx_lcm_list.c",
+				"/home/lzg/桌面/sublime操作",
+				"/home/lzg/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/lzg/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/lzg/gitlib/first/Makefile",
+				"/home/lzg/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/mediatek/tb6582p1/ProjectConfig.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/rs/driver/runtime/rs_cl.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/drivers/scsi/lpfc/lpfc_bsg.c",
+				"/home/lzg/.config/sublime-text-2/Packages/User/Terminal.sublime-settings",
+				"/home/lzg/a1986/base_on__aw6018/mediatek/custom/huaqin27_tb_b2e_kk/kernel/camera/camera/kd_camera_hw.c",
+				"/home/lzg/下载/专业嵌入式软件开发_IT168文库.doc"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\n",
+					"ctrl+0\nctrl+0",
+					"ctrl+/",
+					"CINC",
+					"ctrl+/",
+					"imgsensor",
+					"printf",
+					"imgsensor",
+					"ifeq",
+					"printf",
+					"^[iv]",
+					"^i",
+					"int",
+					"sss",
+					"int",
+					"void",
+					"printf",
+					"print\n",
+					");\n",
+					"func",
+					"(\"%",
+					"kd_hi257",
+					"first"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 230.0
+			},
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"k/d/lcm/",
+						"kernel-3.10/drivers/misc/mediatek/lcm/mt65xx_lcm_list.c"
+					],
+					[
+						"ke/d/lc/",
+						"kernel-3.10/drivers/scsi/lpfc/lpfc_bsg.c"
+					],
+					[
+						"driver//",
+						"frameworks/rs/driver/runtime/rs_cl.c"
+					],
+					[
+						"projectconfig",
+						"device/mediatek/tb6582p1/ProjectConfig.mk"
+					],
+					[
+						"fiele",
+						"/home/lzg/gitlib/first/source/file2.c"
+					],
+					[
+						"/home/gitl",
+						"/home/lzg/gitlib/first/source/file2.c"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 189.0,
+			"status_bar_visible": false
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pr",
+						"print"
+					],
+					[
+						"fo",
+						"foo"
+					],
+					[
+						"kd_hi",
+						"kd_hi257_poweron"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "source/foo/src/Makefile",
+					"settings":
+					{
+						"buffer_size": 56,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "build/make.rule",
+					"settings":
+					{
+						"buffer_size": 1463,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "#include <stdio.h>\n#include \"foo.h\"\n\nvoid foo ()\n{	\n    printf (\"%s, this  foo ()!\\n\", HELLO);\n \n}\n\n",
+					"file": "source/foo/src/foo.c",
+					"file_size": 107,
+					"file_write_time": 1419499672000000,
+					"settings":
+					{
+						"buffer_size": 100,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/home/lzg/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 213,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "huge.sublime-project",
+					"settings":
+					{
+						"buffer_size": 65,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/Makefile/Make.sublime-build",
+			"command_palette":
+			{
+				"height": 75.0,
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"make",
+						"Set Syntax: Makefile"
+					],
+					[
+						"intall",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 153.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/lzg/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/lzg/gitlib/1.py",
+				"/home/lzg/gitlib/huge/source/foo/src/foo.h",
+				"/home/lzg/gitlib/huge/source/foo/src/foo.c",
+				"/home/lzg/.config/sublime-text-2/Packages/User/huge.sublime-build",
+				"/home/lzg/gitlib/huge/build/bulid.sublime-build",
+				"/home/lzg/android5.0/sublimeconfig/MT8382.sublime-project",
+				"/home/lzg/gitlib/first/source/file2.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/drivers/misc/mediatek/lcm/mt65xx_lcm_list.c",
+				"/home/lzg/桌面/sublime操作",
+				"/home/lzg/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/lzg/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/lzg/gitlib/first/Makefile",
+				"/home/lzg/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/mediatek/tb6582p1/ProjectConfig.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/rs/driver/runtime/rs_cl.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/drivers/scsi/lpfc/lpfc_bsg.c",
+				"/home/lzg/.config/sublime-text-2/Packages/User/Terminal.sublime-settings",
+				"/home/lzg/a1986/base_on__aw6018/mediatek/custom/huaqin27_tb_b2e_kk/kernel/camera/camera/kd_camera_hw.c",
+				"/home/lzg/下载/专业嵌入式软件开发_IT168文库.doc"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\n",
+					"ctrl+0\nctrl+0",
+					"ctrl+/",
+					"CINC",
+					"ctrl+/",
+					"imgsensor",
+					"printf",
+					"imgsensor",
+					"ifeq",
+					"printf",
+					"^[iv]",
+					"^i",
+					"int",
+					"sss",
+					"int",
+					"void",
+					"printf",
+					"print\n",
+					");\n",
+					"func",
+					"(\"%",
+					"kd_hi257",
+					"first"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "source/foo/src/Makefile",
+							"settings":
+							{
+								"buffer_size": 56,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										56,
+										56
+									]
+								],
+								"settings":
+								{
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/Makefile/Makefile.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "build/make.rule",
+							"settings":
+							{
+								"buffer_size": 1463,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										388,
+										388
+									]
+								],
+								"settings":
+								{
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 741.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "source/foo/src/foo.c",
+							"settings":
+							{
+								"buffer_size": 100,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										45,
+										45
+									]
+								],
+								"settings":
+								{
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/C++/C.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/lzg/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+							"settings":
+							{
+								"buffer_size": 213,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "huge.sublime-project",
+							"settings":
+							{
+								"buffer_size": 65,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										64,
+										64
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 230.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,1440,900",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"k/d/lcm/",
+						"kernel-3.10/drivers/misc/mediatek/lcm/mt65xx_lcm_list.c"
+					],
+					[
+						"ke/d/lc/",
+						"kernel-3.10/drivers/scsi/lpfc/lpfc_bsg.c"
+					],
+					[
+						"driver//",
+						"frameworks/rs/driver/runtime/rs_cl.c"
+					],
+					[
+						"projectconfig",
+						"device/mediatek/tb6582p1/ProjectConfig.mk"
+					],
+					[
+						"fiele",
+						"/home/lzg/gitlib/first/source/file2.c"
+					],
+					[
+						"/home/gitl",
+						"/home/lzg/gitlib/first/source/file2.c"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 50.0,
+			"status_bar_visible": false,
+			"window_id": 1,
+			"workspace_name": "/home/lzg/gitlib/huge/huge.sublime-project"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/lzg/gitlib/huge/huge.sublime-project",
+			"/home/lzg/android5.0/sublimeconfig/MT8382.sublime-project"
+		]
+	}
+}

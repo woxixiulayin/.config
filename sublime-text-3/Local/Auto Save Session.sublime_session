@@ -1,0 +1,1125 @@
+{
+	"folder_history":
+	[
+		"/home/lzg/iozone/iozone3_429/iozone3_429/src/current"
+	],
+	"last_version": 3065,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/lzg/iozone/iozone3_429/iozone3_429/src/current/gnuplotps.dem",
+				"/home/lzg/iozone/iozone3_429/iozone3_429/src/current/makefile",
+				"/home/lzg/iozone/iozonerepot",
+				"/home/lzg/.config/sublime-text-3/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 25.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"linux-arm"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 211.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"de",
+						"defs	Method"
+					],
+					[
+						"fun",
+						"fun"
+					],
+					[
+						"pylin",
+						"pylint_rc"
+					],
+					[
+						"pr",
+						"print"
+					],
+					[
+						"fo",
+						"foo"
+					],
+					[
+						"kd_hi",
+						"kd_hi257_poweron"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/lzg/gitlib/1.py",
+					"settings":
+					{
+						"buffer_size": 904,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "source/foo/src/foo.c",
+					"settings":
+					{
+						"buffer_size": 112,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "[\n  {\n    \"command\": \"navigate_to_definition\",\n    \"keys\": [\"ctrl+t\", \"ctrl+t\"]\n  },\n  {\n    \"command\": \"navigate_to_definition\",\n    \"keys\": [\"ctrl+shift+period\"]\n  },\n  {\n    \"command\": \"search_for_definition\",\n    \"keys\": [\"ctrl+t\", \"ctrl+y\"]\n  },\n  {\n    \"command\": \"jump_prev\",\n    \"keys\": [\"ctrl+t\", \"ctrl+b\"]\n  },\n  {\n    \"command\": \"jump_prev\",\n    \"keys\": [\"ctrl+shift+comma\"]\n  },\n  {\n    \"command\": \"rebuild_tags\",\n    \"keys\": [\"ctrl+t\", \"ctrl+r\"]\n  },\n  {\n    \"command\": \"show_symbols\",\n    \"context\": [\n      {\n        \"key\": \"selector\",\n        \"match_all\": true,\n        \"operand\": \"source -source.css\",\n        \"operator\": \"equal\"\n      }\n    ],\n    \"keys\": [\"alt+s\"]\n  },\n  {\n    \"command\": \"show_symbols\",\n    \"args\": {\"type\": \"multi\"},\n    \"context\": [\n      {\n        \"key\": \"selector\",\n        \"match_all\": true,\n        \"operand\": \"source -source.css\",\n        \"operator\": \"equal\"\n      }\n    ],\n    \"keys\": [\"alt+shift+s\"]\n  },\n  {\n    \"command\": \"show_symbols\",\n    \"args\": {\"type\": \"lang\"},\n    \"context\": [\n      {\n        \"key\": \"selector\",\n        \"match_all\": true,\n        \"operand\": \"source -source.css\",\n        \"operator\": \"equal\"\n      }\n    ],\n    \"keys\": [\"ctrl+alt+shift+s\"]\n  },\n  { // override current default\n    \"command\": \"transpose\",\n    \"context\": [\n      { \"key\": \"num_selections\", \"operator\": \"not_equal\", \"operand\": 1 }\n    ],\n    \"keys\": [\"ctrl+t\"]\n  }\n]\n",
+					"file": "/home/lzg/.config/sublime-text-3/Packages/CTags/Default.sublime-keymap",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 1403,
+						"line_ending": "Unix",
+						"read_only": true,
+						"scratch": true
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 161.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"a",
+						"Anaconda: Show error list"
+					],
+					[
+						"ana",
+						"Anaconda: Autoformat PEP8 Errors"
+					],
+					[
+						"an",
+						"Anaconda: Show error list"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: reo",
+						"Package Control: Remove Package"
+					],
+					[
+						"ftp",
+						"FTPSync: Open README (Github)"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"make",
+						"Set Syntax: Makefile"
+					],
+					[
+						"intall",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 602.0
+			},
+			"console":
+			{
+				"height": 153.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/lzg/gitlib/huge",
+				"/home/lzg/gitlib/huge/build",
+				"/home/lzg/gitlib/huge/build/exes",
+				"/home/lzg/gitlib/huge/build/libs",
+				"/home/lzg/gitlib/huge/source",
+				"/home/lzg/gitlib/huge/source/foo",
+				"/home/lzg/gitlib/huge/source/foo/src"
+			],
+			"file_history":
+			[
+				"/home/lzg/.config/sublime-text-3/Packages/CTags/CTags.sublime-settings",
+				"/home/lzg/.config/sublime-text-3/Packages/TrailingSpaces/README.md",
+				"/home/lzg/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/home/lzg/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/home/lzg/.config/sublime-text-3/Packages/Anaconda/Default (Linux).sublime-keymap",
+				"/home/lzg/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/lzg/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+				"/home/lzg/.config/sublime-text-3/Packages/Anaconda/README.md",
+				"/home/lzg/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/lzg/.config/sublime-text-3/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+				"/home/lzg/.config/sublime-text-3/Packages/User/Python.sublime-settings",
+				"/home/lzg/.config/sublime-text-3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/home/lzg/.config/sublime-text-3/Packages/SublimeAStyleFormatter/Default (Linux).sublime-keymap",
+				"/home/lzg/.config/sublime-text-3/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+				"/home/lzg/.config/sublime-text-3/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/home/lzg/gitlib/huge/source/foo/src/main.c",
+				"/home/lzg/gitlib/huge/source/foo/src/Makefile",
+				"/home/lzg/桌面/sublime操作",
+				"/home/lzg/gitlib/huge/build/make.rule",
+				"/home/lzg/gitlib/huge/source/foo/src/foo.c",
+				"/home/lzg/gitlib/1.py",
+				"/home/lzg/.config/sublime-text-3/Packages/Pylinter/Pylinter.sublime-settings",
+				"/home/lzg/下载/pylintrc",
+				"/home/lzg/gitlib/huge/source/foo/src/main",
+				"/home/lzg/gitlib/huge/huge.sublime-project",
+				"/home/lzg/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
+				"/home/lzg/.config/sublime-text-3/Cache/Makefile/Make.build-language.cache",
+				"/home/lzg/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/lzg/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/lzg/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/lzg/gitlib/huge/source/foo/src/deps/main.d",
+				"/home/lzg/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/lzg/gitlib/huge/source/foo/src/foo.h",
+				"/home/lzg/.config/sublime-text-2/Packages/User/huge.sublime-build",
+				"/home/lzg/gitlib/huge/build/bulid.sublime-build",
+				"/home/lzg/android5.0/sublimeconfig/MT8382.sublime-project",
+				"/home/lzg/gitlib/first/source/file2.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/drivers/misc/mediatek/lcm/mt65xx_lcm_list.c",
+				"/home/lzg/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/lzg/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/lzg/gitlib/first/Makefile",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/mediatek/tb6582p1/ProjectConfig.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/rs/driver/runtime/rs_cl.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/drivers/scsi/lpfc/lpfc_bsg.c",
+				"/home/lzg/.config/sublime-text-2/Packages/User/Terminal.sublime-settings",
+				"/home/lzg/a1986/base_on__aw6018/mediatek/custom/huaqin27_tb_b2e_kk/kernel/camera/camera/kd_camera_hw.c",
+				"/home/lzg/下载/专业嵌入式软件开发_IT168文库.doc"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"triggers",
+					"auto_complete_triggers",
+					"side",
+					"sidebar",
+					"side",
+					"anaconda_linting",
+					"autoformat",
+					"python",
+					"sn",
+					"an",
+					"sy",
+					"syn",
+					"check",
+					"caret_style",
+					"indent_to_bracket",
+					"always_sho",
+					"alw",
+					"bold_fo",
+					"bold",
+					"soda",
+					"auto_com",
+					"autocom",
+					"auto",
+					"auto*com",
+					"autocom",
+					"close.*file",
+					"closefile",
+					"close",
+					"bar",
+					"sidebar",
+					"close",
+					"ctrl+/",
+					"ctrl",
+					"ctrl+/",
+					"\n",
+					"ctrl+0\nctrl+0",
+					"ctrl+/",
+					"CINC",
+					"ctrl+/",
+					"imgsensor",
+					"printf",
+					"imgsensor",
+					"ifeq",
+					"printf",
+					"^[iv]",
+					"^i",
+					"int",
+					"sss",
+					"int",
+					"void",
+					"printf",
+					"print\n",
+					");\n",
+					"func",
+					"(\"%",
+					"kd_hi257",
+					"first"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/lzg/gitlib/1.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 904,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										443,
+										443
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/Python/Python.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "source/foo/src/foo.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 112,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										44,
+										44
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/C++/C++.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/lzg/.config/sublime-text-3/Packages/CTags/Default.sublime-keymap",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1403,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1403,
+										1403
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 230.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,1440,900",
+			"project": "huge.sublime-project",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"main",
+						"source/foo/src/main.c"
+					],
+					[
+						"k/d/lcm/",
+						"kernel-3.10/drivers/misc/mediatek/lcm/mt65xx_lcm_list.c"
+					],
+					[
+						"ke/d/lc/",
+						"kernel-3.10/drivers/scsi/lpfc/lpfc_bsg.c"
+					],
+					[
+						"driver//",
+						"frameworks/rs/driver/runtime/rs_cl.c"
+					],
+					[
+						"projectconfig",
+						"device/mediatek/tb6582p1/ProjectConfig.mk"
+					],
+					[
+						"fiele",
+						"/home/lzg/gitlib/first/source/file2.c"
+					],
+					[
+						"/home/gitl",
+						"/home/lzg/gitlib/first/source/file2.c"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 148.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+			},
+			"window_id": 2,
+			"workspace_name": "/home/lzg/gitlib/huge/huge.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/lzg/gitlib/huge/huge.sublime-workspace"
+		]
+	}
+}

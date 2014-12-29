@@ -1,0 +1,5 @@
+{
+	"cmd": ["ll;make"],
+	"working_dir": "$~/gitlib/huge/source/foo/src",
+	"shell":"true"
+}

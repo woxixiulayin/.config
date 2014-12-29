@@ -1,0 +1,468 @@
+{
+	"folder_history":
+	[
+		"/home/lzg/iozone/iozone3_429/iozone3_429/src/current"
+	],
+	"last_version": 3065,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/lzg/iozone/iozone3_429/iozone3_429/src/current/gnuplotps.dem",
+				"/home/lzg/iozone/iozone3_429/iozone3_429/src/current/makefile",
+				"/home/lzg/iozone/iozonerepot",
+				"/home/lzg/.config/sublime-text-3/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 25.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"linux-arm"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 211.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"fun",
+						"fun"
+					],
+					[
+						"pylin",
+						"pylint_rc"
+					],
+					[
+						"pr",
+						"print"
+					],
+					[
+						"fo",
+						"foo"
+					],
+					[
+						"kd_hi",
+						"kd_hi257_poweron"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 140.0,
+				"selected_items":
+				[
+					[
+						"Package Control: reo",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"ftp",
+						"FTPSync: Open README (Github)"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"make",
+						"Set Syntax: Makefile"
+					],
+					[
+						"intall",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 521.0
+			},
+			"console":
+			{
+				"height": 153.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/lzg/gitlib/huge"
+			],
+			"file_history":
+			[
+				"/home/lzg/gitlib/huge/source/foo/src/main.c",
+				"/home/lzg/gitlib/huge/source/foo/src/Makefile",
+				"/home/lzg/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/lzg/桌面/sublime操作",
+				"/home/lzg/gitlib/huge/build/make.rule",
+				"/home/lzg/gitlib/huge/source/foo/src/foo.c",
+				"/home/lzg/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/lzg/gitlib/1.py",
+				"/home/lzg/.config/sublime-text-3/Packages/Pylinter/Pylinter.sublime-settings",
+				"/home/lzg/下载/pylintrc",
+				"/home/lzg/gitlib/huge/source/foo/src/main",
+				"/home/lzg/gitlib/huge/huge.sublime-project",
+				"/home/lzg/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
+				"/home/lzg/.config/sublime-text-3/Cache/Makefile/Make.build-language.cache",
+				"/home/lzg/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/lzg/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/lzg/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/lzg/gitlib/huge/source/foo/src/deps/main.d",
+				"/home/lzg/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/lzg/gitlib/huge/source/foo/src/foo.h",
+				"/home/lzg/.config/sublime-text-2/Packages/User/huge.sublime-build",
+				"/home/lzg/gitlib/huge/build/bulid.sublime-build",
+				"/home/lzg/android5.0/sublimeconfig/MT8382.sublime-project",
+				"/home/lzg/gitlib/first/source/file2.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/drivers/misc/mediatek/lcm/mt65xx_lcm_list.c",
+				"/home/lzg/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/lzg/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/lzg/gitlib/first/Makefile",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/mediatek/tb6582p1/ProjectConfig.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/rs/driver/runtime/rs_cl.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/drivers/scsi/lpfc/lpfc_bsg.c",
+				"/home/lzg/.config/sublime-text-2/Packages/User/Terminal.sublime-settings",
+				"/home/lzg/a1986/base_on__aw6018/mediatek/custom/huaqin27_tb_b2e_kk/kernel/camera/camera/kd_camera_hw.c",
+				"/home/lzg/下载/专业嵌入式软件开发_IT168文库.doc"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"indent_to_bracket",
+					"always_sho",
+					"alw",
+					"bold_fo",
+					"bold",
+					"soda",
+					"auto_com",
+					"autocom",
+					"auto",
+					"auto*com",
+					"autocom",
+					"close.*file",
+					"closefile",
+					"close",
+					"bar",
+					"sidebar",
+					"close",
+					"ctrl+/",
+					"ctrl",
+					"ctrl+/",
+					"\n",
+					"ctrl+0\nctrl+0",
+					"ctrl+/",
+					"CINC",
+					"ctrl+/",
+					"imgsensor",
+					"printf",
+					"imgsensor",
+					"ifeq",
+					"printf",
+					"^[iv]",
+					"^i",
+					"int",
+					"sss",
+					"int",
+					"void",
+					"printf",
+					"print\n",
+					");\n",
+					"func",
+					"(\"%",
+					"kd_hi257",
+					"first"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 230.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,1440,900",
+			"project": "huge.sublime-project",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"main",
+						"source/foo/src/main.c"
+					],
+					[
+						"k/d/lcm/",
+						"kernel-3.10/drivers/misc/mediatek/lcm/mt65xx_lcm_list.c"
+					],
+					[
+						"ke/d/lc/",
+						"kernel-3.10/drivers/scsi/lpfc/lpfc_bsg.c"
+					],
+					[
+						"driver//",
+						"frameworks/rs/driver/runtime/rs_cl.c"
+					],
+					[
+						"projectconfig",
+						"device/mediatek/tb6582p1/ProjectConfig.mk"
+					],
+					[
+						"fiele",
+						"/home/lzg/gitlib/first/source/file2.c"
+					],
+					[
+						"/home/gitl",
+						"/home/lzg/gitlib/first/source/file2.c"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 148.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+			},
+			"window_id": 2,
+			"workspace_name": "/home/lzg/gitlib/huge/huge.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/lzg/gitlib/huge/huge.sublime-workspace"
+		]
+	}
+}
