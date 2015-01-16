@@ -14,8 +14,10 @@
 		"All Autocomplete",
 		"Anaconda",
 		"BracketHighlighter",
+		"Cscope",
 		"CTags",
-		"Git",
+		"Diffy",
+		"FileDiffs",
 		"Monokai Extended",
 		"Package Control",
 		"SideBarEnhancements",
@@ -24,6 +26,7 @@
 		"SublimeLinter-contrib-clang",
 		"Terminal",
 		"Theme - Soda",
+		"Theme - Soda SolarizedDark",
 		"TrailingSpaces",
 		"Trimmer"
 	]

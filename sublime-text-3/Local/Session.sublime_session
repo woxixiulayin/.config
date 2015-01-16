@@ -1,10 +1,32 @@
 {
 	"folder_history":
 	[
+		"/home/lzg/android5.0/aw1978_0110/device",
+		"/home/lzg/android5.0/aw1978_ntfs",
+		"/home/lzg/android5.0/server/aw1978/aw1978_ntfs/vendor/mediatek/proprietary/custom/aw1978/cgen/cfgdefault",
+		"/home/lzg/android5.0/server/aw1978/aw1978_ntfs",
+		"/home/lzg/android5.0/aw1978_ntfs/kernel-3.10",
+		"/home/lzg/android5.0/aw1978_ntfs/system",
+		"/home/lzg/android5.0/aw1978_0110/kernel-3.10",
+		"/home/lzg/android5.0/aw1978_0110/bootable",
+		"/home/lzg/android5.0/aw1978_0110/system",
+		"/boot",
+		"/home/lzg/android5.0/aw1978_hsg_1226/kernel-3.10",
+		"/home/lzg/android5.0/aw1978_0110",
+		"/home/lzg/gitlib/python/awesome-python-webapp",
+		"/home/lzg/gitlib/python/python_webapp",
+		"/home/lzg/android5.0/MT8382_L_BD2",
+		"/home/lzg/android5.0/doc/tuxera-file-systems-3014.9.13-mt8382 (2)",
+		"/home/lzg/考勤系统/到 Sign_In 的链接/sigin_meteor",
+		"/home/lzg/android5.0/MT8382_L_BD2/vendor",
+		"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+		"/home/lzg/android5.0/MT8382_L_BD2/external",
+		"/home/lzg/a1986/base_on__aw6018/mediatek",
+		"/home/lzg/gitlib/python/win7_pygame",
 		"/home/lzg/iozone/iozone3_429/iozone3_429/src/current"
 	],
 	"last_version": 3065,
-	"last_window_id": 2,
+	"last_window_id": 5,
 	"log_indexing": false,
 	"settings":
 	{
@@ -15,162 +37,12 @@
 			{
 				"selected_items":
 				[
-				]
-			},
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 392.0,
-				"selected_items":
-				[
-					[
-						"install",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 449.0
-			},
-			"console":
-			{
-				"height": 139.0,
-				"history":
-				[
-					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/home/lzg/iozone/iozone3_429/iozone3_429/src/current/gnuplotps.dem",
-				"/home/lzg/iozone/iozone3_429/iozone3_429/src/current/makefile",
-				"/home/lzg/iozone/iozonerepot",
-				"/home/lzg/.config/sublime-text-3/Packages/User/Preferences.sublime-settings"
-			],
-			"find":
-			{
-				"height": 25.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"linux-arm"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 25.0
-			},
-			"input":
-			{
-				"height": 0.0
-			},
-			"menu_visible": true,
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"replace":
-			{
-				"height": 46.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 211.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 0.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"fun",
-						"fun"
-					],
-					[
-						"pylin",
-						"pylint_rc"
-					],
-					[
-						"pr",
-						"print"
-					],
-					[
-						"fo",
-						"foo"
-					],
 					[
 						"kd_hi",
 						"kd_hi257_poweron"
 					]
 				]
 			},
-			"buffers":
-			[
-			],
 			"build_system": "",
 			"command_palette":
 			{
@@ -178,27 +50,63 @@
 				"selected_items":
 				[
 					[
-						"Package Control: reo",
-						"Package Control: Remove Package"
+						"gitlogc",
+						"Git: Log Current File"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
+						"gitlog",
+						"Git: Log Current File"
 					],
 					[
-						"ftp",
-						"FTPSync: Open README (Github)"
+						"gitdiffc",
+						"Git: Diff Current File"
+					],
+					[
+						"gitdiff",
+						"Git: Diff Current File"
+					],
+					[
+						"git log",
+						"Git: Log Current File"
+					],
+					[
+						"gitd",
+						"Git: Diff Current File"
+					],
+					[
+						"gitdiffcu",
+						"Git: Diff Current File"
+					],
+					[
+						"git",
+						"Git: Diff All Files"
+					],
+					[
+						"gitlo",
+						"Git: Log All"
+					],
+					[
+						"git d",
+						"Git: Diff Current File"
+					],
+					[
+						"git diffc",
+						"Git: Diff Tool Current File"
+					],
+					[
+						"gitdiffcur",
+						"Git: Diff Current File"
 					],
 					[
 						"insta",
 						"Package Control: Install Package"
 					],
 					[
-						"make",
-						"Set Syntax: Makefile"
+						"intall",
+						"Package Control: Install Package"
 					],
 					[
-						"intall",
+						"install",
 						"Package Control: Install Package"
 					]
 				],
@@ -206,9 +114,22 @@
 			},
 			"console":
 			{
-				"height": 153.0,
+				"height": 105.0,
 				"history":
 				[
+					"print (100**100)",
+					"print (2**100)",
+					"import tkinter",
+					"import Tkinter",
+					"import tk",
+					"print(1)",
+					"print \"asd\"",
+					"printf  1",
+					"print  1",
+					"print  \"1\"",
+					"import os",
+					"import  pygame",
+					"import",
 					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
 				]
 			},
@@ -221,46 +142,136 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/home/lzg/gitlib/huge"
-			],
 			"file_history":
 			[
-				"/home/lzg/gitlib/huge/source/foo/src/main.c",
-				"/home/lzg/gitlib/huge/source/foo/src/Makefile",
-				"/home/lzg/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
-				"/home/lzg/桌面/sublime操作",
-				"/home/lzg/gitlib/huge/build/make.rule",
-				"/home/lzg/gitlib/huge/source/foo/src/foo.c",
-				"/home/lzg/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/lzg/gitlib/1.py",
-				"/home/lzg/.config/sublime-text-3/Packages/Pylinter/Pylinter.sublime-settings",
-				"/home/lzg/下载/pylintrc",
-				"/home/lzg/gitlib/huge/source/foo/src/main",
-				"/home/lzg/gitlib/huge/huge.sublime-project",
-				"/home/lzg/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
-				"/home/lzg/.config/sublime-text-3/Cache/Makefile/Make.build-language.cache",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/webrtc/android-webrtc.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/android.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1978/init.project.rc",
+				"/home/lzg/android5.0/doc/android-5.0.0_r1..tuxera-lollipop.texfat_tntfs_e2fc27d.patch",
+				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/obj/STATIC_LIBRARIES/liboprofile_db_intermediates/db_debug.P",
 				"/home/lzg/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
-				"/home/lzg/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
-				"/home/lzg/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/lzg/gitlib/huge/source/foo/src/deps/main.d",
-				"/home/lzg/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
-				"/home/lzg/gitlib/huge/source/foo/src/foo.h",
-				"/home/lzg/.config/sublime-text-2/Packages/User/huge.sublime-build",
-				"/home/lzg/gitlib/huge/build/bulid.sublime-build",
-				"/home/lzg/android5.0/sublimeconfig/MT8382.sublime-project",
-				"/home/lzg/gitlib/first/source/file2.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/drivers/misc/mediatek/lcm/mt65xx_lcm_list.c",
-				"/home/lzg/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
-				"/home/lzg/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
-				"/home/lzg/gitlib/first/Makefile",
-				"/home/lzg/android5.0/MT8382_L_BD2/device/mediatek/tb6582p1/ProjectConfig.mk",
-				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/rs/driver/runtime/rs_cl.c",
-				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/drivers/scsi/lpfc/lpfc_bsg.c",
-				"/home/lzg/.config/sublime-text-2/Packages/User/Terminal.sublime-settings",
-				"/home/lzg/a1986/base_on__aw6018/mediatek/custom/huaqin27_tb_b2e_kk/kernel/camera/camera/kd_camera_hw.c",
-				"/home/lzg/下载/专业嵌入式软件开发_IT168文库.doc"
+				"/home/lzg/android5.0/MT8382_L_BD2/system/vold/Android.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1978/full_aw1978.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/huaqin/hq8382_tb_b2c_l/aw1978/default/bsp/kernel/hq8382_tb_b2c_l_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/buildkernel_modversion.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/obj/KERNEL_OBJ/include/generated/utsrelease.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/build_1_9_kernel.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/obj/BOOTLOADER_OBJ/build-aw1978/dev/logo/wsvga/wsvga_num_9.raw",
+				"/home/lzg/android5.0/MT8382_L_BD2/build1231.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/eigen/bench/bench_unrolling",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/eclipse-basebuilder/basebuilder-3.6.2/org.eclipse.releng.basebuilder/plugins/org.eclipse.build.tools/src/org/eclipse/releng/BuildMachineManager.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/eclipse-basebuilder/basebuilder-3.6.2/org.eclipse.releng.basebuilder/plugins/org.eclipse.build.tools/data/builds-emf-2.3.xml",
+				"/home/lzg/android5.0/MT8382_L_BD2/prebuilts/gradle-plugin/com/android/tools/build/builder/0.12.2/builder-0.12.2.pom",
+				"/home/lzg/android5.0/MT8382_L_BD2/prebuilts/gradle-plugin/com/android/tools/build/builder/0.12.2/builder-0.12.2.jar.sha1",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/clang/test/CodeGen/builtin-unwind-init.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/art/compiler/dex/verification_results.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/libvorbis/doc/vorbis-errors.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/checkpolicy/VERSION",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/srec/config/en.us/audio/v139/v139_189.nwv",
+				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/custom/mt6582/hal/sendepfeature/sp0a19_yuv/config.ftbl.sp0a19_yuv.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/external/lzo/src/config1.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/scripts/config",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/bison/configure",
+				"/home/lzg/android5.0/MT8382_L_BD2/development/samples/devbytes/graphics/FoldingLayout/src/com/example/android/foldinglayout/OnFoldListener.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/skia/src/opts/SkColor_opts_neon.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/clang/CODE_OWNERS.TXT",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/COPYING",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/dynamic_cast.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/delete.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/class_type_info.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/src/array_type_info.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/include/typeinfo",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/include/new",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/include/cxxabi.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/use_rtti.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/abi/cpp/Android.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/build1_8_kernel.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/build1_7.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/build1_6_1.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/build1_6.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/build1_5.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/build1_4.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/Makefile",
+				"/home/lzg/android5.0/MT8382_L_BD2/.gitignore",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/hq8382_tb_b2c_l/init.project.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/resources/manager/ProjectClassLoader.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/base/media/java/android/media/projection/IMediaProjectionWatcherCallback.aidl",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1975/factory_init.project.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1975/meta_init.project.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1978/factory_init.project.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1975/init.project.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/project/ProjectChooserHelper.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/ash/display/projecting_observer_chromeos_unittest.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/ash/display/projecting_observer_chromeos.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/ash/display/projecting_observer_chromeos.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/resources/manager/ProjectResources.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/eclipse/plugins/com.android.ide.eclipse.adt/src/com/android/ide/eclipse/adt/internal/wizards/newproject/NewProjectCreator.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/tools/base/sdklib/src/main/java/com/android/sdklib/internal/project/ProjectCreator.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/volley/project.properties",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/tools/telemetry/unittest_data/perf_report_output.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/tcpdump/print-radius.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/bison/PACKAGING",
+				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8382.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8312.usb.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8382.usb.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/drivers/misc/mediatek/magnetometer/ist8303-new/ist8303.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/out/target/product/aw1978/root/init.mt8312.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/dalvik/dx/src/com/android/dx/util/IntIterator.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/emma/core/java12/com/vladium/util/IntIntMap.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/dexmaker/src/dx/java/com/android/dx/util/IntIterator.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/dalvik/dexgen/src/com/android/dexgen/util/IntIterator.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/libcore/luni/src/main/java/java/lang/ExceptionInInitializerError.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/ipc/ipcns_notifier.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/bison/INSTALL",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/mediatek/mt6582/init.mt6582.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/include/linux/vermagic.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/tools/base/apps/DeviceConfig/proguard-project.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/lib1/proguard-project.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/app/proguard-project.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/operator/OP01/packages/apps/ConfigureCheck2/project.properties",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/apps/DeviceConfig/proguard-project.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/tools/base/apps/DeviceConfig/project.properties",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/lib1/project.properties",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/testapps/buildConfigTest/app/project.properties",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/testing/gtest/xcode/Config/DebugProject.xcconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/sdk/apps/DeviceConfig/project.properties",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/protobuf/gtest/xcode/Config/DebugProject.xcconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/llvm/autoconf/m4/config_project.m4",
+				"/home/lzg/android5.0/MT8382_L_BD2/prebuilts/python/darwin-x86/2.7.5/lib/python2.7/ConfigParser.py",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/mockito/src/org/mockito/internal/configuration/injection/SpyOnInjectedFieldsHandler.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/packages/apps/Camera2/src/com/android/camera/ui/OnIndicatorEventListener.java",
+				"/home/lzg/android5.0/MT8382_L_BD2/vendor/mediatek/proprietary/hardware/ril/viatelecom/pppd_via/magic.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1978/init.modem.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/bootable/bootloader/lk/project/aw1978.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/bootable/bootloader/lk/project/aw1975.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/docs/source.android.com/src/devices/audio_avoiding_pi.jd",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/mediatek/common/sepolicy/audiocmdservice_atci.te",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/libopus/silk/control_audio_bandwidth.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/asus/fugu/libaudio/audio_hal_hooks.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/generic/goldfish/audio/MODULE_LICENSE_APACHE2",
+				"/home/lzg/android5.0/MT8382_L_BD2/hardware/libhardware_legacy/audio/audio_hw_hal.cpp",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/asus/flo/audio_effects.conf",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/qemu/audio/audio.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/cts/suite/audio_quality/test/AudioSignalFactoryTest.cpp",
+				"/home/lzg/android5.0/MT8382_L_BD2/hardware/libhardware_legacy/audio/AudioPolicyManagerDefault.cpp",
+				"/home/lzg/android5.0/MT8382_L_BD2/cts/suite/audio_quality/client/AndroidManifest.xml",
+				"/home/lzg/android5.0/MT8382_L_BD2/system/media/audio_utils/primitives.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/art/runtime/dex_instruction_visitor_test.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/cts/suite/audio_quality/BUILD.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/cts/suite/audio_quality/Android.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/base/data/sounds/AudioPackage13_48.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/base/data/sounds/AudioPackage12_48.mk",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/htc/flounder/nvaudio_conf.xml",
+				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/av/services/audiopolicy/audio_policy_conf.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/docs/source.android.com/src/devices/audio_latency_measure.jd",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/asus/fugu/libaudio/audio_hal_thunks.cpp",
+				"/home/lzg/android5.0/MT8382_L_BD2/hardware/libhardware_legacy/audio/audio_policy_hal.cpp",
+				"/home/lzg/android5.0/MT8382_L_BD2/frameworks/av/services/audiopolicy/audio_policy.conf",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/qemu/audio/audio_win_int.h"
 			],
 			"find":
 			{
@@ -268,9 +279,24 @@
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 102.0,
 				"where_history":
 				[
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/kernel",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/android/configs",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+					"G:\\android5.0\\MT8382_L_BD2\\system",
+					"G:\\android5.0\\MT8382_L_BD2\\system\\core",
+					""
 				]
 			},
 			"find_state":
@@ -278,56 +304,142 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"indent_to_bracket",
-					"always_sho",
-					"alw",
-					"bold_fo",
-					"bold",
-					"soda",
-					"auto_com",
-					"autocom",
-					"auto",
-					"auto*com",
-					"autocom",
-					"close.*file",
-					"closefile",
-					"close",
-					"bar",
-					"sidebar",
-					"close",
-					"ctrl+/",
-					"ctrl",
-					"ctrl+/",
-					"\n",
-					"ctrl+0\nctrl+0",
-					"ctrl+/",
-					"CINC",
-					"ctrl+/",
-					"imgsensor",
-					"printf",
-					"imgsensor",
-					"ifeq",
-					"printf",
-					"^[iv]",
-					"^i",
-					"int",
-					"sss",
-					"int",
-					"void",
-					"printf",
-					"print\n",
-					");\n",
-					"func",
-					"(\"%",
-					"kd_hi257",
-					"first"
+					"debug_check_no_locks_held",
+					"debug_check_no",
+					"lockdep_init_map",
+					"mutex_lock_nested",
+					"mutex_lock",
+					"mutex_",
+					"mutex_nest_lock",
+					"mutex_nested_lock",
+					"export_symbol_gpl",
+					"config_lockdep",
+					"config_modules",
+					"config_LOCKDEP",
+					"config_modules",
+					"modules",
+					"config_lockdep",
+					"gpl",
+					"mutex_lock_nested",
+					"config_debug_loc",
+					"config_modules",
+					"config_lockdep",
+					"config",
+					"config_modules",
+					"config_lockdep",
+					"config_modules",
+					"int Volume::formatVol(bool wipe)",
+					"SLOGI(\"Formatting volume %s (%s)\", getLabel(), devicePath);",
+					"int Volume::formatVol(bool wipe)",
+					"setState(Volume::State_Formatting);",
+					"int Volume::formatVol(bool wipe)",
+					"wipe",
+					"int Volume::formatVol(bool wipe)",
+					"if(formatExfat == 1)",
+					"if (formatExfat == 1)",
+					"if (formatExfat == 1) ",
+					"Fat::format(devicePath, 0, wipe)",
+					"if(Fat::format(devicePath, 0, wipe))",
+					"if (Fat::format(devicePath, 0, wipe))",
+					"sprintf(devicePath, \"/dev/block/vold/%d:%d\",",
+					"if (formatEntireDevice)",
+					"setState(Volume::State_Formatting)",
+					"sprintf(devicePath, \"/dev/block/vold/%d:%d\",",
+					"if(formatEntireDevice)",
+					"if (formatEntireDevice)",
+					"Only initialize the MBR if we are formatting the entire device",
+					"formatEntireDevice && !formatExfat",
+					"if (formatEntireDevice)",
+					"Only initialize the MBR if we are formatting the entire ",
+					"Only initialize",
+					"State_Formatting",
+					"copy",
+					"copy.*line",
+					"copy line",
+					"copy",
+					"volume.cpp",
+					"volume",
+					"config_lock",
+					"config_modul",
+					"config_modul=y",
+					"config_moduls",
+					"config_modul",
+					"config",
+					"crc",
+					"define MODULE_ARCH_VERMAGIC",
+					"mutex_lock_nested",
+					"#ifdef CONFIG_MODVERSIONS",
+					"MODULE_ARCH_VERMAGIC=y",
+					"MODULE_ARCH_VERMAGIC",
+					"CONFIG_SMP=y",
+					"CONFIG_PREEMPT",
+					"CONFIG_MODULE_UNLOAD",
+					"MODULE_ARCH_VERMAGIC.*armv7",
+					"armv7",
+					"MODULE_ARCH_VERMAGIC \"ARMv7\"",
+					"MODULE_ARCH_VERMAGIC",
+					"ARMv7",
+					"MODULE_ARCH_VERMAGIC=y",
+					"MODULE_ARCH_VERMAGIC",
+					"MODULE_VERMAGIC_MODVERSIONS",
+					"CONFIG_MODVERSIONS",
+					"CONFIG_LOCKDEP",
+					"CONFIG_DEBUG_LOCK_ALLOC",
+					"CONFIG_MODULES",
+					"CONFIG_MODVERSIONS",
+					"error",
+					"error:",
+					"error",
+					"MODULE_VERMAGIC_MODVERSIONS",
+					"ARMv7",
+					"MODULE_ARCH_VERMAGIC",
+					"ARMv7",
+					"MODULE_ARCH_VERMAGIC",
+					"CONFIG_MODVERSIONS",
+					"version",
+					"MT8382_L_BD2/.*1978",
+					"MT8382_L_BD2/.*8382",
+					"MT8382_L_BD2/.*all",
+					"MT8382_L_BD2/.*8382",
+					"8382",
+					"1987",
+					"MODVERSION",
+					"config_lock",
+					"config_modul",
+					"ntfs",
+					"no_locks_held",
+					"gpl",
+					"lockdep_init_map",
+					"lockedp_init_map",
+					"init_map",
+					"EXPORT_SYMBOL_GPL",
+					"export",
+					"mutex_lock_nested",
+					"CONFIG_DEBUG_LOCKDEP",
+					"CONFIG_PROVE_LOCKING",
+					"CONFIG_LOCKDEP_SUPPORT",
+					"config_lockdep",
+					"version",
+					"modversion",
+					"version",
+					"debug_lock",
+					"config_module",
+					"config_modules",
+					"config_module",
+					"config",
+					"debug_LOCK",
+					"LOCK",
+					"LOCKDEP",
+					"insmod",
+					"inmod"
 				],
 				"highlight": false,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": true,
+				"regex": false,
 				"replace_history":
 				[
+					"  "
 				],
 				"reverse": false,
 				"show_context": true,
@@ -335,58 +447,30 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"groups":
-			[
-				{
-					"sheets":
-					[
-					]
-				}
-			],
 			"incremental_find":
 			{
-				"height": 30.0
+				"height": 38.0
 			},
 			"input":
 			{
 				"height": 35.0
 			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 230.0
+				"height": 200.0
 			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
-			"position": "0,1,0,0,0,0,0,0,0,1440,900",
-			"project": "huge.sublime-project",
+			"output.git":
+			{
+				"height": 124.0
+			},
 			"replace":
 			{
-				"height": 56.0
+				"height": 0.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -395,8 +479,120 @@
 				"selected_items":
 				[
 					[
-						"main",
-						"source/foo/src/main.c"
+						"aw1978de",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig"
+					],
+					[
+						"aw1978defon",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_defconfig"
+					],
+					[
+						"aw1978_debug",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig"
+					],
+					[
+						"aw1978",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig"
+					],
+					[
+						"aw1978defconfig",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig"
+					],
+					[
+						"utsrelease.h",
+						"MT8382_L_BD2/out/target/product/aw1978/obj/KERNEL_OBJ/include/generated/utsrelease.h"
+					],
+					[
+						"build1_9",
+						"MT8382_L_BD2/build_1_9_kernel.log"
+					],
+					[
+						"buildmod",
+						"MT8382_L_BD2/buildkernel_modversion.log"
+					],
+					[
+						"vermagic",
+						"MT8382_L_BD2/kernel-3.10/include/linux/vermagic.h"
+					],
+					[
+						"config1987",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig"
+					],
+					[
+						"projectrc",
+						"MT8382_L_BD2/device/huaqin/aw1978/init.project.rc"
+					],
+					[
+						"init83",
+						"MT8382_L_BD2/out/target/product/aw1978/root/init.mt8382.rc"
+					],
+					[
+						"aw1978initrc",
+						"MT8382_L_BD2/device/huaqin/aw1978/init.project.rc"
+					],
+					[
+						"genfs",
+						"MT8382_L_BD2/device/mediatek/common/sepolicy/genfs_contexts"
+					],
+					[
+						"initrc",
+						"~/android5.0/MT8382_L_BD2/device/huaqin/aw1978/init.project.rc"
+					],
+					[
+						"initpro.rc",
+						"MT8382_L_BD2/device/huaqin/aw1978/init.project.rc"
+					],
+					[
+						"init.project.rc",
+						"MT8382_L_BD2/device/huaqin/aw1978/init.project.rc"
+					],
+					[
+						"system/vold/volume.cpp",
+						"MT8382_L_BD2/system/vold/Volume.cpp"
+					],
+					[
+						"system/vold/main.cpp",
+						"MT8382_L_BD2/system/vold/main.cpp"
+					],
+					[
+						"system/vold/android.mk",
+						"MT8382_L_BD2/system/vold/Android.mk"
+					],
+					[
+						"aw1978_debug_defconfig",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig"
+					],
+					[
+						"kern/mm/kmem",
+						"kernel-3.10\\mm\\kmemcheck.c"
+					],
+					[
+						"system/vold/vol",
+						"system\\vold\\Volume.cpp"
+					],
+					[
+						"system/vold/ma",
+						"system\\vold\\main.cpp"
+					],
+					[
+						"system/vold/mai",
+						"system/vold/main.cpp"
+					],
+					[
+						".ko",
+						"kernel-3.10/fs/nls/nls_koi8-u.c"
+					],
+					[
+						"initusb",
+						"device/huaqin/aw1978/init.mt6582.usb.rc"
+					],
+					[
+						"init.usb",
+						"system/core/rootdir/init.usb.rc"
+					],
+					[
+						"init.usb.rc",
+						"device/huaqin/aw1978/init.mt6582.usb.rc"
 					],
 					[
 						"k/d/lcm/",
@@ -430,6 +626,1026 @@
 				"height": 500.0,
 				"selected_items":
 				[
+					[
+						"",
+						"~/gitlib/python/python_webapp/conf/webapp.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 318.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"no",
+						"noncont_clock"
+					],
+					[
+						"kd_hi",
+						"kd_hi257_poweron"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/lzg/android5.0/server/aw1978/aw1978_ntfs/kernel-3.10/drivers/misc/mediatek/lcm/hx8394a_hd720_dsi_vdo_tianma/hx8394a_hd720_dsi_vdo_tianma.c",
+					"settings":
+					{
+						"buffer_size": 14461,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "[\n	{ \"keys\": [\"ctrl+q\"], \"command\": \"exit\" },\n\n	{ \"keys\": [\"ctrl+shift+n\"], \"command\": \"new_window\" },\n	{ \"keys\": [\"ctrl+shift+w\"], \"command\": \"close_window\" },\n	{ \"keys\": [\"ctrl+o\"], \"command\": \"prompt_open_file\" },\n	{ \"keys\": [\"ctrl+shift+t\"], \"command\": \"reopen_last_file\" },\n	{ \"keys\": [\"alt+o\"], \"command\": \"switch_file\", \"args\": {\"extensions\": [\"cpp\", \"cxx\", \"cc\", \"c\", \"hpp\", \"hxx\", \"h\", \"ipp\", \"inl\", \"m\", \"mm\"]} },\n	{ \"keys\": [\"ctrl+n\"], \"command\": \"new_file\" },\n	{ \"keys\": [\"ctrl+s\"], \"command\": \"save\" },\n	{ \"keys\": [\"ctrl+shift+s\"], \"command\": \"prompt_save_as\" },\n	{ \"keys\": [\"ctrl+f4\"], \"command\": \"close_file\" },\n	{ \"keys\": [\"ctrl+w\"], \"command\": \"close\" },\n\n	{ \"keys\": [\"ctrl+k\", \"ctrl+b\"], \"command\": \"toggle_side_bar\" },\n	{ \"keys\": [\"f11\"], \"command\": \"toggle_full_screen\" },\n	{ \"keys\": [\"shift+f11\"], \"command\": \"toggle_distraction_free\" },\n\n	{ \"keys\": [\"backspace\"], \"command\": \"left_delete\" },\n	{ \"keys\": [\"shift+backspace\"], \"command\": \"left_delete\" },\n	{ \"keys\": [\"ctrl+shift+backspace\"], \"command\": \"left_delete\" },\n	{ \"keys\": [\"delete\"], \"command\": \"right_delete\" },\n	{ \"keys\": [\"enter\"], \"command\": \"insert\", \"args\": {\"characters\": \"\\n\"} },\n	{ \"keys\": [\"shift+enter\"], \"command\": \"insert\", \"args\": {\"characters\": \"\\n\"} },\n	{ \"keys\": [\"keypad_enter\"], \"command\": \"insert\", \"args\": {\"characters\": \"\\n\"} },\n	{ \"keys\": [\"shift+keypad_enter\"], \"command\": \"insert\", \"args\": {\"characters\": \"\\n\"} },\n\n	{ \"keys\": [\"ctrl+z\"], \"command\": \"undo\" },\n	{ \"keys\": [\"ctrl+shift+z\"], \"command\": \"redo\" },\n	{ \"keys\": [\"ctrl+y\"], \"command\": \"redo_or_repeat\" },\n	{ \"keys\": [\"ctrl+u\"], \"command\": \"soft_undo\" },\n	{ \"keys\": [\"ctrl+shift+u\"], \"command\": \"soft_redo\" },\n\n	{ \"keys\": [\"shift+delete\"], \"command\": \"cut\" },\n	{ \"keys\": [\"ctrl+insert\"], \"command\": \"copy\" },\n	{ \"keys\": [\"shift+insert\"], \"command\": \"paste\" },\n\n	// These two key bindings should replace the above three if you'd prefer\n	// the traditional X11 behavior of shift+insert pasting from the primary\n	// selection. The above CUA keys are the default, to match most GTK\n	// applications.\n	//{ \"keys\": [\"shift+insert\"], \"command\": \"paste\", \"args\": {\"clipboard\": \"selection\"} },\n	//{ \"keys\": [\"shift+delete\"], \"command\": \"right_delete\" },\n\n	{ \"keys\": [\"ctrl+x\"], \"command\": \"cut\" },\n	{ \"keys\": [\"ctrl+c\"], \"command\": \"copy\" },\n	{ \"keys\": [\"ctrl+v\"], \"command\": \"paste\" },\n	{ \"keys\": [\"ctrl+shift+v\"], \"command\": \"paste_and_indent\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+v\"], \"command\": \"paste_from_history\" },\n\n	{ \"keys\": [\"left\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": false} },\n	{ \"keys\": [\"right\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true} },\n	{ \"keys\": [\"up\"], \"command\": \"move\", \"args\": {\"by\": \"lines\", \"forward\": false} },\n	{ \"keys\": [\"down\"], \"command\": \"move\", \"args\": {\"by\": \"lines\", \"forward\": true} },\n	{ \"keys\": [\"shift+left\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": false, \"extend\": true} },\n	{ \"keys\": [\"shift+right\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true, \"extend\": true} },\n	{ \"keys\": [\"shift+up\"], \"command\": \"move\", \"args\": {\"by\": \"lines\", \"forward\": false, \"extend\": true} },\n	{ \"keys\": [\"shift+down\"], \"command\": \"move\", \"args\": {\"by\": \"lines\", \"forward\": true, \"extend\": true} },\n\n	{ \"keys\": [\"ctrl+left\"], \"command\": \"move\", \"args\": {\"by\": \"words\", \"forward\": false} },\n	{ \"keys\": [\"ctrl+right\"], \"command\": \"move\", \"args\": {\"by\": \"word_ends\", \"forward\": true} },\n	{ \"keys\": [\"ctrl+shift+left\"], \"command\": \"move\", \"args\": {\"by\": \"words\", \"forward\": false, \"extend\": true} },\n	{ \"keys\": [\"ctrl+shift+right\"], \"command\": \"move\", \"args\": {\"by\": \"word_ends\", \"forward\": true, \"extend\": true} },\n\n	{ \"keys\": [\"alt+left\"], \"command\": \"move\", \"args\": {\"by\": \"subwords\", \"forward\": false} },\n	{ \"keys\": [\"alt+right\"], \"command\": \"move\", \"args\": {\"by\": \"subword_ends\", \"forward\": true} },\n	{ \"keys\": [\"alt+shift+left\"], \"command\": \"move\", \"args\": {\"by\": \"subwords\", \"forward\": false, \"extend\": true} },\n	{ \"keys\": [\"alt+shift+right\"], \"command\": \"move\", \"args\": {\"by\": \"subword_ends\", \"forward\": true, \"extend\": true} },\n\n	{ \"keys\": [\"alt+shift+up\"], \"command\": \"select_lines\", \"args\": {\"forward\": false} },\n	{ \"keys\": [\"alt+shift+down\"], \"command\": \"select_lines\", \"args\": {\"forward\": true} },\n\n	{ \"keys\": [\"pageup\"], \"command\": \"move\", \"args\": {\"by\": \"pages\", \"forward\": false} },\n	{ \"keys\": [\"pagedown\"], \"command\": \"move\", \"args\": {\"by\": \"pages\", \"forward\": true} },\n	{ \"keys\": [\"shift+pageup\"], \"command\": \"move\", \"args\": {\"by\": \"pages\", \"forward\": false, \"extend\": true} },\n	{ \"keys\": [\"shift+pagedown\"], \"command\": \"move\", \"args\": {\"by\": \"pages\", \"forward\": true, \"extend\": true} },\n\n	{ \"keys\": [\"home\"], \"command\": \"move_to\", \"args\": {\"to\": \"bol\", \"extend\": false} },\n	{ \"keys\": [\"end\"], \"command\": \"move_to\", \"args\": {\"to\": \"eol\", \"extend\": false} },\n	{ \"keys\": [\"shift+home\"], \"command\": \"move_to\", \"args\": {\"to\": \"bol\", \"extend\": true} },\n	{ \"keys\": [\"shift+end\"], \"command\": \"move_to\", \"args\": {\"to\": \"eol\", \"extend\": true} },\n	{ \"keys\": [\"ctrl+home\"], \"command\": \"move_to\", \"args\": {\"to\": \"bof\", \"extend\": false} },\n	{ \"keys\": [\"ctrl+end\"], \"command\": \"move_to\", \"args\": {\"to\": \"eof\", \"extend\": false} },\n	{ \"keys\": [\"ctrl+shift+home\"], \"command\": \"move_to\", \"args\": {\"to\": \"bof\", \"extend\": true} },\n	{ \"keys\": [\"ctrl+shift+end\"], \"command\": \"move_to\", \"args\": {\"to\": \"eof\", \"extend\": true} },\n\n	{ \"keys\": [\"ctrl+up\"], \"command\": \"scroll_lines\", \"args\": {\"amount\": 1.0 } },\n	{ \"keys\": [\"ctrl+down\"], \"command\": \"scroll_lines\", \"args\": {\"amount\": -1.0 } },\n\n	{ \"keys\": [\"ctrl+pagedown\"], \"command\": \"next_view\" },\n	{ \"keys\": [\"ctrl+pageup\"], \"command\": \"prev_view\" },\n\n	{ \"keys\": [\"ctrl+tab\"], \"command\": \"next_view_in_stack\" },\n	{ \"keys\": [\"ctrl+shift+tab\"], \"command\": \"prev_view_in_stack\" },\n\n	{ \"keys\": [\"ctrl+a\"], \"command\": \"select_all\" },\n	{ \"keys\": [\"ctrl+shift+l\"], \"command\": \"split_selection_into_lines\" },\n	{ \"keys\": [\"escape\"], \"command\": \"single_selection\", \"context\":\n		[\n			{ \"key\": \"num_selections\", \"operator\": \"not_equal\", \"operand\": 1 }\n		]\n	},\n	{ \"keys\": [\"escape\"], \"command\": \"clear_fields\", \"context\":\n		[\n			{ \"key\": \"has_next_field\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"escape\"], \"command\": \"clear_fields\", \"context\":\n		[\n			{ \"key\": \"has_prev_field\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"escape\"], \"command\": \"hide_panel\", \"args\": {\"cancel\": true},\n		\"context\":\n		[\n			{ \"key\": \"panel_visible\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"escape\"], \"command\": \"hide_overlay\", \"context\":\n		[\n			{ \"key\": \"overlay_visible\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"escape\"], \"command\": \"hide_auto_complete\", \"context\":\n		[\n			{ \"key\": \"auto_complete_visible\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n\n	{ \"keys\": [\"tab\"], \"command\": \"insert_best_completion\", \"args\": {\"default\": \"\\t\", \"exact\": true} },\n	{ \"keys\": [\"tab\"], \"command\": \"insert_best_completion\", \"args\": {\"default\": \"\\t\", \"exact\": false},\n		\"context\":\n		[\n			{ \"key\": \"setting.tab_completion\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"tab\"], \"command\": \"replace_completion_with_next_completion\", \"context\":\n		[\n			{ \"key\": \"last_command\", \"operator\": \"equal\", \"operand\": \"insert_best_completion\" },\n			{ \"key\": \"setting.tab_completion\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"tab\"], \"command\": \"reindent\", \"context\":\n		[\n			{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_match\", \"operand\": \"^$\", \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_match\", \"operand\": \"^$\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"tab\"], \"command\": \"indent\", \"context\":\n		[\n			{ \"key\": \"text\", \"operator\": \"regex_contains\", \"operand\": \"\\n\" }\n		]\n	},\n	{ \"keys\": [\"tab\"], \"command\": \"next_field\", \"context\":\n		[\n			{ \"key\": \"has_next_field\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"tab\"], \"command\": \"commit_completion\", \"context\":\n		[\n			{ \"key\": \"auto_complete_visible\" },\n			{ \"key\": \"setting.auto_complete_commit_on_tab\" }\n		]\n	},\n\n	{ \"keys\": [\"shift+tab\"], \"command\": \"insert\", \"args\": {\"characters\": \"\\t\"} },\n	{ \"keys\": [\"shift+tab\"], \"command\": \"unindent\", \"context\":\n		[\n			{ \"key\": \"setting.shift_tab_unindent\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"shift+tab\"], \"command\": \"unindent\", \"context\":\n		[\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_match\", \"operand\": \"^[\\t ]*\" }\n		]\n	},\n	{ \"keys\": [\"shift+tab\"], \"command\": \"unindent\", \"context\":\n		[\n			{ \"key\": \"text\", \"operator\": \"regex_contains\", \"operand\": \"\\n\" }\n		]\n	},\n	{ \"keys\": [\"shift+tab\"], \"command\": \"prev_field\", \"context\":\n		[\n			{ \"key\": \"has_prev_field\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n\n	{ \"keys\": [\"ctrl+]\"], \"command\": \"indent\" },\n	{ \"keys\": [\"ctrl+[\"], \"command\": \"unindent\" },\n\n	{ \"keys\": [\"insert\"], \"command\": \"toggle_overwrite\" },\n\n	{ \"keys\": [\"ctrl+l\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"line\"} },\n	{ \"keys\": [\"ctrl+d\"], \"command\": \"find_under_expand\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+d\"], \"command\": \"find_under_expand_skip\" },\n	{ \"keys\": [\"ctrl+shift+space\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"scope\"} },\n	{ \"keys\": [\"ctrl+shift+m\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"brackets\"} },\n	{ \"keys\": [\"ctrl+m\"], \"command\": \"move_to\", \"args\": {\"to\": \"brackets\"} },\n	{ \"keys\": [\"ctrl+shift+j\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"indentation\"} },\n	{ \"keys\": [\"ctrl+shift+a\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"tag\"} },\n\n	{ \"keys\": [\"alt+.\"], \"command\": \"close_tag\" },\n\n	{ \"keys\": [\"ctrl+alt+q\"], \"command\": \"toggle_record_macro\" },\n	{ \"keys\": [\"ctrl+alt+shift+q\"], \"command\": \"run_macro\" },\n\n	{ \"keys\": [\"ctrl+enter\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Add Line.sublime-macro\"} },\n	{ \"keys\": [\"ctrl+shift+enter\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Add Line Before.sublime-macro\"} },\n	{ \"keys\": [\"enter\"], \"command\": \"commit_completion\", \"context\":\n		[\n			{ \"key\": \"auto_complete_visible\" },\n			{ \"key\": \"setting.auto_complete_commit_on_tab\", \"operand\": false }\n		]\n	},\n\n	{ \"keys\": [\"ctrl+p\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"goto\", \"show_files\": true} },\n	{ \"keys\": [\"ctrl+shift+p\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"command_palette\"} },\n	{ \"keys\": [\"ctrl+alt+p\"], \"command\": \"prompt_select_workspace\" },\n	{ \"keys\": [\"ctrl+r\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"goto\", \"text\": \"@\"} },\n	{ \"keys\": [\"ctrl+g\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"goto\", \"text\": \":\"} },\n	{ \"keys\": [\"ctrl+;\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"goto\", \"text\": \"#\"} },\n	{ \"keys\": [\"f12\"], \"command\": \"goto_definition\" },\n	{ \"keys\": [\"ctrl+shift+r\"], \"command\": \"goto_symbol_in_project\" },\n	{ \"keys\": [\"alt+-\"], \"command\": \"jump_back\" },\n	{ \"keys\": [\"alt+shift+-\"], \"command\": \"jump_forward\" },\n	{ \"keys\": [\"alt+keypad_minus\"], \"command\": \"jump_back\" },\n	{ \"keys\": [\"alt+shift+keypad_minus\"], \"command\": \"jump_forward\" },\n\n	{ \"keys\": [\"ctrl+i\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"incremental_find\", \"reverse\": false} },\n	{ \"keys\": [\"ctrl+shift+i\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"incremental_find\", \"reverse\": true} },\n	{ \"keys\": [\"ctrl+f\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"find\", \"reverse\": false} },\n	{ \"keys\": [\"ctrl+h\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"replace\", \"reverse\": false} },\n	{ \"keys\": [\"ctrl+shift+h\"], \"command\": \"replace_next\" },\n	{ \"keys\": [\"f3\"], \"command\": \"find_next\" },\n	{ \"keys\": [\"shift+f3\"], \"command\": \"find_prev\" },\n	{ \"keys\": [\"ctrl+f3\"], \"command\": \"find_under\" },\n	{ \"keys\": [\"ctrl+shift+f3\"], \"command\": \"find_under_prev\" },\n	{ \"keys\": [\"alt+f3\"], \"command\": \"find_all_under\" },\n	{ \"keys\": [\"ctrl+e\"], \"command\": \"slurp_find_string\" },\n	{ \"keys\": [\"ctrl+shift+e\"], \"command\": \"slurp_replace_string\" },\n	{ \"keys\": [\"ctrl+shift+f\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"find_in_files\"} },\n	{ \"keys\": [\"f4\"], \"command\": \"next_result\" },\n	{ \"keys\": [\"shift+f4\"], \"command\": \"prev_result\" },\n\n	{ \"keys\": [\"f6\"], \"command\": \"toggle_setting\", \"args\": {\"setting\": \"spell_check\"} },\n	{ \"keys\": [\"ctrl+f6\"], \"command\": \"next_misspelling\" },\n	{ \"keys\": [\"ctrl+shift+f6\"], \"command\": \"prev_misspelling\" },\n\n	{ \"keys\": [\"ctrl+shift+up\"], \"command\": \"swap_line_up\" },\n	{ \"keys\": [\"ctrl+shift+down\"], \"command\": \"swap_line_down\" },\n\n	{ \"keys\": [\"ctrl+backspace\"], \"command\": \"delete_word\", \"args\": { \"forward\": false } },\n	{ \"keys\": [\"ctrl+shift+backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete to Hard BOL.sublime-macro\"} },\n\n	{ \"keys\": [\"ctrl+delete\"], \"command\": \"delete_word\", \"args\": { \"forward\": true } },\n	{ \"keys\": [\"ctrl+shift+delete\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete to Hard EOL.sublime-macro\"} },\n\n	{ \"keys\": [\"ctrl+/\"], \"command\": \"toggle_comment\", \"args\": { \"block\": false } },\n	{ \"keys\": [\"ctrl+shift+/\"], \"command\": \"toggle_comment\", \"args\": { \"block\": true } },\n\n	{ \"keys\": [\"ctrl+j\"], \"command\": \"join_lines\" },\n	{ \"keys\": [\"ctrl+shift+d\"], \"command\": \"duplicate_line\" },\n\n	{ \"keys\": [\"ctrl+`\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"console\", \"toggle\": true} },\n\n	{ \"keys\": [\"alt+/\"], \"command\": \"auto_complete\" },\n	{ \"keys\": [\"alt+/\"], \"command\": \"replace_completion_with_auto_complete\", \"context\":\n		[\n			{ \"key\": \"last_command\", \"operator\": \"equal\", \"operand\": \"insert_best_completion\" },\n			{ \"key\": \"auto_complete_visible\", \"operator\": \"equal\", \"operand\": false },\n			{ \"key\": \"setting.tab_completion\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n\n	{ \"keys\": [\"ctrl+alt+shift+p\"], \"command\": \"show_scope_name\" },\n\n	{ \"keys\": [\"f7\"], \"command\": \"build\" },\n	{ \"keys\": [\"ctrl+b\"], \"command\": \"build\" },\n	{ \"keys\": [\"ctrl+shift+b\"], \"command\": \"build\", \"args\": {\"variant\": \"Run\"} },\n	{ \"keys\": [\"ctrl+break\"], \"command\": \"exec\", \"args\": {\"kill\": true} },\n\n	{ \"keys\": [\"ctrl+t\"], \"command\": \"transpose\" },\n\n	{ \"keys\": [\"f9\"], \"command\": \"sort_lines\", \"args\": {\"case_sensitive\": false} },\n	{ \"keys\": [\"ctrl+f9\"], \"command\": \"sort_lines\", \"args\": {\"case_sensitive\": true} },\n\n	// Auto-pair quotes\n	{ \"keys\": [\"\\\"\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"\\\"$0\\\"\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|\\\\}|>|$)\", \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"not_regex_contains\", \"operand\": \"[\\\"a-zA-Z0-9_]$\", \"match_all\": true },\n			{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.double\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"\\\"\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"\\\"${0:$SELECTION}\\\"\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"\\\"\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\"\", \"match_all\": true },\n			{ \"key\": \"selector\", \"operator\": \"not_equal\", \"operand\": \"punctuation.definition.string.begin\", \"match_all\": true },\n			{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.double\", \"match_all\": true },\n		]\n	},\n	{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\"$\", \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\"\", \"match_all\": true },\n			{ \"key\": \"selector\", \"operator\": \"not_equal\", \"operand\": \"punctuation.definition.string.begin\", \"match_all\": true },\n			{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.double\", \"match_all\": true },\n		]\n	},\n\n	// Auto-pair single quotes\n	{ \"keys\": [\"'\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"'$0'\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|\\\\}|>|$)\", \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"not_regex_contains\", \"operand\": \"['a-zA-Z0-9_]$\", \"match_all\": true },\n			{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.single\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"'\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"'${0:$SELECTION}'\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"'\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^'\", \"match_all\": true },\n			{ \"key\": \"selector\", \"operator\": \"not_equal\", \"operand\": \"punctuation.definition.string.begin\", \"match_all\": true },\n			{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.single\", \"match_all\": true },\n		]\n	},\n	{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"'$\", \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^'\", \"match_all\": true },\n			{ \"key\": \"selector\", \"operator\": \"not_equal\", \"operand\": \"punctuation.definition.string.begin\", \"match_all\": true },\n			{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.single\", \"match_all\": true },\n		]\n	},\n\n	// Auto-pair brackets\n	{ \"keys\": [\"(\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"($0)\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|;|\\\\}|$)\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"(\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"(${0:$SELECTION})\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\")\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\)\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\($\", \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\)\", \"match_all\": true }\n		]\n	},\n\n	// Auto-pair square brackets\n	{ \"keys\": [\"[\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"[$0]\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|;|\\\\}|$)\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"[\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"[${0:$SELECTION}]\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"]\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\]\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\[$\", \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\]\", \"match_all\": true }\n		]\n	},\n\n	// Auto-pair curly brackets\n	{ \"keys\": [\"{\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"{$0}\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|\\\\}|$)\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"{\"], \"command\": \"wrap_block\", \"args\": {\"begin\": \"{\", \"end\": \"}\"}, \"context\":\n		[\n			{ \"key\": \"indented_block\", \"match_all\": true },\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_match\", \"operand\": \"^$\", \"match_all\": true },\n		]\n	},\n	{ \"keys\": [\"{\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"{${0:$SELECTION}}\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"}\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\}\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\{$\", \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\}\", \"match_all\": true }\n		]\n	},\n\n	{ \"keys\": [\"enter\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Add Line in Braces.sublime-macro\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\{$\", \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\}\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"shift+enter\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Add Line in Braces.sublime-macro\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\{$\", \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\}\", \"match_all\": true }\n		]\n	},\n\n	{ \"keys\": [\"enter\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"\\n\\t$0\\n\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selector\", \"operator\": \"equal\", \"operand\": \"meta.scope.between-tag-pair\", \"match_all\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n		]\n	},\n	{ \"keys\": [\"shift+enter\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"\\n\\t$0\\n\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selector\", \"operator\": \"equal\", \"operand\": \"meta.scope.between-tag-pair\", \"match_all\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n		]\n	},\n\n	{\n		\"keys\": [\"alt+shift+1\"],\n		\"command\": \"set_layout\",\n		\"args\":\n		{\n			\"cols\": [0.0, 1.0],\n			\"rows\": [0.0, 1.0],\n			\"cells\": [[0, 0, 1, 1]]\n		}\n	},\n	{\n		\"keys\": [\"alt+shift+2\"],\n		\"command\": \"set_layout\",\n		\"args\":\n		{\n			\"cols\": [0.0, 0.5, 1.0],\n			\"rows\": [0.0, 1.0],\n			\"cells\": [[0, 0, 1, 1], [1, 0, 2, 1]]\n		}\n	},\n	{\n		\"keys\": [\"alt+shift+3\"],\n		\"command\": \"set_layout\",\n		\"args\":\n		{\n			\"cols\": [0.0, 0.33, 0.66, 1.0],\n			\"rows\": [0.0, 1.0],\n			\"cells\": [[0, 0, 1, 1], [1, 0, 2, 1], [2, 0, 3, 1]]\n		}\n	},\n	{\n		\"keys\": [\"alt+shift+4\"],\n		\"command\": \"set_layout\",\n		\"args\":\n		{\n			\"cols\": [0.0, 0.25, 0.5, 0.75, 1.0],\n			\"rows\": [0.0, 1.0],\n			\"cells\": [[0, 0, 1, 1], [1, 0, 2, 1], [2, 0, 3, 1], [3, 0, 4, 1]]\n		}\n	},\n	{\n		\"keys\": [\"alt+shift+8\"],\n		\"command\": \"set_layout\",\n		\"args\":\n		{\n			\"cols\": [0.0, 1.0],\n			\"rows\": [0.0, 0.5, 1.0],\n			\"cells\": [[0, 0, 1, 1], [0, 1, 1, 2]]\n		}\n	},\n	{\n		\"keys\": [\"alt+shift+9\"],\n		\"command\": \"set_layout\",\n		\"args\":\n		{\n			\"cols\": [0.0, 1.0],\n			\"rows\": [0.0, 0.33, 0.66, 1.0],\n			\"cells\": [[0, 0, 1, 1], [0, 1, 1, 2], [0, 2, 1, 3]]\n		}\n	},\n	{\n		\"keys\": [\"alt+shift+5\"],\n		\"command\": \"set_layout\",\n		\"args\":\n		{\n			\"cols\": [0.0, 0.5, 1.0],\n			\"rows\": [0.0, 0.5, 1.0],\n			\"cells\":\n			[\n				[0, 0, 1, 1], [1, 0, 2, 1],\n				[0, 1, 1, 2], [1, 1, 2, 2]\n			]\n		}\n	},\n	{ \"keys\": [\"ctrl+1\"], \"command\": \"focus_group\", \"args\": { \"group\": 0 } },\n	{ \"keys\": [\"ctrl+2\"], \"command\": \"focus_group\", \"args\": { \"group\": 1 } },\n	{ \"keys\": [\"ctrl+3\"], \"command\": \"focus_group\", \"args\": { \"group\": 2 } },\n	{ \"keys\": [\"ctrl+4\"], \"command\": \"focus_group\", \"args\": { \"group\": 3 } },\n	{ \"keys\": [\"ctrl+5\"], \"command\": \"focus_group\", \"args\": { \"group\": 4 } },\n	{ \"keys\": [\"ctrl+6\"], \"command\": \"focus_group\", \"args\": { \"group\": 5 } },\n	{ \"keys\": [\"ctrl+7\"], \"command\": \"focus_group\", \"args\": { \"group\": 6 } },\n	{ \"keys\": [\"ctrl+8\"], \"command\": \"focus_group\", \"args\": { \"group\": 7 } },\n	{ \"keys\": [\"ctrl+9\"], \"command\": \"focus_group\", \"args\": { \"group\": 8 } },\n	{ \"keys\": [\"ctrl+shift+1\"], \"command\": \"move_to_group\", \"args\": { \"group\": 0 } },\n	{ \"keys\": [\"ctrl+shift+2\"], \"command\": \"move_to_group\", \"args\": { \"group\": 1 } },\n	{ \"keys\": [\"ctrl+shift+3\"], \"command\": \"move_to_group\", \"args\": { \"group\": 2 } },\n	{ \"keys\": [\"ctrl+shift+4\"], \"command\": \"move_to_group\", \"args\": { \"group\": 3 } },\n	{ \"keys\": [\"ctrl+shift+5\"], \"command\": \"move_to_group\", \"args\": { \"group\": 4 } },\n	{ \"keys\": [\"ctrl+shift+6\"], \"command\": \"move_to_group\", \"args\": { \"group\": 5 } },\n	{ \"keys\": [\"ctrl+shift+7\"], \"command\": \"move_to_group\", \"args\": { \"group\": 6 } },\n	{ \"keys\": [\"ctrl+shift+8\"], \"command\": \"move_to_group\", \"args\": { \"group\": 7 } },\n	{ \"keys\": [\"ctrl+shift+9\"], \"command\": \"move_to_group\", \"args\": { \"group\": 8 } },\n	{ \"keys\": [\"ctrl+0\"], \"command\": \"focus_side_bar\" },\n\n	{ \"keys\": [\"ctrl+k\", \"ctrl+up\"], \"command\": \"new_pane\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+shift+up\"], \"command\": \"new_pane\", \"args\": {\"move\": false} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+down\"], \"command\": \"close_pane\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+left\"], \"command\": \"focus_neighboring_group\", \"args\": {\"forward\": false} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+right\"], \"command\": \"focus_neighboring_group\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+shift+left\"], \"command\": \"move_to_neighboring_group\", \"args\": {\"forward\": false} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+shift+right\"], \"command\": \"move_to_neighboring_group\" },\n\n	{ \"keys\": [\"alt+1\"], \"command\": \"select_by_index\", \"args\": { \"index\": 0 } },\n	{ \"keys\": [\"alt+2\"], \"command\": \"select_by_index\", \"args\": { \"index\": 1 } },\n	{ \"keys\": [\"alt+3\"], \"command\": \"select_by_index\", \"args\": { \"index\": 2 } },\n	{ \"keys\": [\"alt+4\"], \"command\": \"select_by_index\", \"args\": { \"index\": 3 } },\n	{ \"keys\": [\"alt+5\"], \"command\": \"select_by_index\", \"args\": { \"index\": 4 } },\n	{ \"keys\": [\"alt+6\"], \"command\": \"select_by_index\", \"args\": { \"index\": 5 } },\n	{ \"keys\": [\"alt+7\"], \"command\": \"select_by_index\", \"args\": { \"index\": 6 } },\n	{ \"keys\": [\"alt+8\"], \"command\": \"select_by_index\", \"args\": { \"index\": 7 } },\n	{ \"keys\": [\"alt+9\"], \"command\": \"select_by_index\", \"args\": { \"index\": 8 } },\n	{ \"keys\": [\"alt+0\"], \"command\": \"select_by_index\", \"args\": { \"index\": 9 } },\n\n	{ \"keys\": [\"f2\"], \"command\": \"next_bookmark\" },\n	{ \"keys\": [\"shift+f2\"], \"command\": \"prev_bookmark\" },\n	{ \"keys\": [\"ctrl+f2\"], \"command\": \"toggle_bookmark\" },\n	{ \"keys\": [\"ctrl+shift+f2\"], \"command\": \"clear_bookmarks\" },\n	{ \"keys\": [\"alt+f2\"], \"command\": \"select_all_bookmarks\" },\n\n	{ \"keys\": [\"ctrl+shift+k\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Line.sublime-macro\"} },\n\n	{ \"keys\": [\"alt+q\"], \"command\": \"wrap_lines\" },\n\n	{ \"keys\": [\"ctrl+k\", \"ctrl+u\"], \"command\": \"upper_case\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+l\"], \"command\": \"lower_case\" },\n\n	{ \"keys\": [\"ctrl+k\", \"ctrl+space\"], \"command\": \"set_mark\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+a\"], \"command\": \"select_to_mark\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+w\"], \"command\": \"delete_to_mark\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+x\"], \"command\": \"swap_with_mark\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+y\"], \"command\": \"yank\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+k\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete to Hard EOL.sublime-macro\"} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete to Hard BOL.sublime-macro\"} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+g\"], \"command\": \"clear_bookmarks\", \"args\": {\"name\": \"mark\"} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+c\"], \"command\": \"show_at_center\" },\n\n	{ \"keys\": [\"ctrl++\"], \"command\": \"increase_font_size\" },\n	{ \"keys\": [\"ctrl+=\"], \"command\": \"increase_font_size\" },\n	{ \"keys\": [\"ctrl+-\"], \"command\": \"decrease_font_size\" },\n\n	{ \"keys\": [\"alt+shift+w\"], \"command\": \"insert_snippet\", \"args\": { \"name\": \"Packages/XML/long-tag.sublime-snippet\" } },\n\n	{ \"keys\": [\"ctrl+shift+[\"], \"command\": \"fold\" },\n	{ \"keys\": [\"ctrl+shift+]\"], \"command\": \"unfold\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+1\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 1} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+2\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 2} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+3\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 3} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+4\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 4} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+5\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 5} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+6\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 6} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+7\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 7} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+8\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 8} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+9\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 9} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+0\"], \"command\": \"unfold_all\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+j\"], \"command\": \"unfold_all\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+t\"], \"command\": \"fold_tag_attributes\" },\n\n	{ \"keys\": [\"context_menu\"], \"command\": \"context_menu\" },\n\n	{ \"keys\": [\"alt+c\"], \"command\": \"toggle_case_sensitive\", \"context\":\n		[\n			{ \"key\": \"setting.is_widget\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"alt+r\"], \"command\": \"toggle_regex\", \"context\":\n		[\n			{ \"key\": \"setting.is_widget\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"alt+w\"], \"command\": \"toggle_whole_word\", \"context\":\n		[\n			{ \"key\": \"setting.is_widget\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"alt+a\"], \"command\": \"toggle_preserve_case\", \"context\":\n		[\n			{ \"key\": \"setting.is_widget\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n\n	// Find panel key bindings\n	{ \"keys\": [\"enter\"], \"command\": \"find_next\", \"context\":\n		[{\"key\": \"panel\", \"operand\": \"find\"}, {\"key\": \"panel_has_focus\"}]\n	},\n	{ \"keys\": [\"shift+enter\"], \"command\": \"find_prev\", \"context\":\n		[{\"key\": \"panel\", \"operand\": \"find\"}, {\"key\": \"panel_has_focus\"}]\n	},\n	{ \"keys\": [\"alt+enter\"], \"command\": \"find_all\", \"args\": {\"close_panel\": true},\n		 \"context\": [{\"key\": \"panel\", \"operand\": \"find\"}, {\"key\": \"panel_has_focus\"}]\n	},\n\n	// Replace panel key bindings\n	{ \"keys\": [\"enter\"], \"command\": \"find_next\", \"context\":\n		[{\"key\": \"panel\", \"operand\": \"replace\"}, {\"key\": \"panel_has_focus\"}]\n	},\n	{ \"keys\": [\"shift+enter\"], \"command\": \"find_prev\", \"context\":\n		[{\"key\": \"panel\", \"operand\": \"replace\"}, {\"key\": \"panel_has_focus\"}]\n	},\n	{ \"keys\": [\"alt+enter\"], \"command\": \"find_all\", \"args\": {\"close_panel\": true},\n		\"context\": [{\"key\": \"panel\", \"operand\": \"replace\"}, {\"key\": \"panel_has_focus\"}]\n	},\n	{ \"keys\": [\"ctrl+alt+enter\"], \"command\": \"replace_all\", \"args\": {\"close_panel\": true},\n		 \"context\": [{\"key\": \"panel\", \"operand\": \"replace\"}, {\"key\": \"panel_has_focus\"}]\n	},\n\n	// Incremental find panel key bindings\n	{ \"keys\": [\"enter\"], \"command\": \"hide_panel\", \"context\":\n		[{\"key\": \"panel\", \"operand\": \"incremental_find\"}, {\"key\": \"panel_has_focus\"}]\n	},\n	{ \"keys\": [\"shift+enter\"], \"command\": \"find_prev\", \"context\":\n		[{\"key\": \"panel\", \"operand\": \"incremental_find\"}, {\"key\": \"panel_has_focus\"}]\n	},\n	{ \"keys\": [\"alt+enter\"], \"command\": \"find_all\", \"args\": {\"close_panel\": true},\n		\"context\": [{\"key\": \"panel\", \"operand\": \"incremental_find\"}, {\"key\": \"panel_has_focus\"}]\n	},\n\n	// HTML, XML close tag\n	{ \"keys\": [\"/\"], \"command\": \"close_tag\", \"args\": { \"insert_slash\": true }, \"context\":\n		[\n			{ \"key\": \"selector\", \"operator\": \"equal\", \"operand\": \"(text.html, text.xml) - string - comment\", \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_match\", \"operand\": \".*<$\", \"match_all\": true },\n			{ \"key\": \"setting.auto_close_tags\" }\n		]\n	}\n]\n",
+					"file": "/home/lzg/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 35443,
+						"line_ending": "Unix",
+						"read_only": true,
+						"scratch": true
+					}
+				},
+				{
+					"file": "/home/lzg/android5.0/server/aw1978/aw1978_ntfs/bootable/bootloader/lk/dev/lcm/hx8394a_hd720_dsi_vdo_tianma/hx8394a_hd720_dsi_vdo_tianma.c",
+					"settings":
+					{
+						"buffer_size": 14461,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 140.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"intall",
+						"Package Control: Advanced Install Package"
+					],
+					[
+						"gitdiffcu",
+						"Git: Diff Current File"
+					],
+					[
+						"gitdiff",
+						"Git: Diff Current File"
+					],
+					[
+						"gitdiffc",
+						"Git: Diff Current File"
+					],
+					[
+						"gitdiffcur",
+						"Git: Diff Current File"
+					],
+					[
+						"gitd",
+						"Git: Diff Current File"
+					],
+					[
+						"gitlog",
+						"Git: Log All"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 521.0
+			},
+			"console":
+			{
+				"height": 105.0,
+				"history":
+				[
+					"print (100**100)",
+					"print (2**100)",
+					"import tkinter",
+					"import Tkinter",
+					"import tk",
+					"print(1)",
+					"print \"asd\"",
+					"printf  1",
+					"print  1",
+					"print  \"1\"",
+					"import os",
+					"import  pygame",
+					"import",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/lzg/android5.0/MT8382_L_BD2"
+			],
+			"file_history":
+			[
+				"/home/lzg/.config/sublime-text-3/Packages/Diffy/Diffy.sublime-settings",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/drivers/misc/mediatek/lcm/hx8394a_hd720_dsi_vdo_tianma/hx8394a_hd720_dsi_vdo_tianma.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/bootable/bootloader/lk/dev/lcm/kd070d27_new_mipi_vdo/kd070d27_new_mipi_vdo.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/drivers/misc/mediatek/lcm/kd070d27_new_mipi_vdo/kd070d27_new_mipi_vdo.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/mach-mt6582/aw1978/lcm/hx8394a_hd720_dsi_vdo_tianma.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/bootable/bootloader/lk/dev/lcm/hx8394a_hd720_dsi_vdo_tianma/hx8394a_hd720_dsi_vdo_tianma.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/drivers/net/ethernet/8390/8390.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/include/debug/8250_32.S",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/libvorbis/vq/8.vqs",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/scripts/kernel-doc",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel.log",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/drivers/scsi/NCR_D700.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/chromium_org/tools/perf/page_sets/data/key_desktop_sites_001.wpr.sha1",
+				"/G/android5.0/MT8382_L_BD2/system/vold/Android.mk",
+				"/C/Users/liuzhigang/AppData/Local/Temp/vermagic.h-revHEAD.svn001.tmp.h",
+				"/G/android5.0/MT8382_L_BD2/frameworks/volley/custom_rules.xml",
+				"/G/android5.0/MT8382_L_BD2/system/vold/Volume.cpp",
+				"/G/android5.0/MT8382_L_BD2/art/runtime/verify_object.h",
+				"/G/android5.0/MT8382_L_BD2/external/jsoncpp/version",
+				"/home/lzg/gitlib/1.py",
+				"/home/lzg/android5.0/MT8382_L_BD2/system/vold/Volume.cpp",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/mediatek/common/sepolicy/genfs_contexts",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/kernel/mutex.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/system/vold/Android.mk",
+				"/home/lzg/文档/1",
+				"/home/lzg/android5.0/MT8382_L_BD2/system/vold/Fat.h",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/fsck_msdos/fat.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/clang/test/SemaCXX/flexible-array-test.cpp",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/robolectric/find-android.bat",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/lge/hammerhead/sepolicy/genfs_contexts",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/htc/flounder/sepolicy/genfs_contexts",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/asus/grouper/sepolicy/genfs_contexts",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/asus/fugu/sepolicy/genfs_contexts",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/sepolicy/genfs_contexts",
+				"/home/lzg/android5.0/MT8382_L_BD2/bionic/libc/tools/generate-NOTICE.py",
+				"/home/lzg/android5.0/MT8382_L_BD2/external/giflib/gif_err.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/device/huaqin/aw1978/init.project.rc",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/init/do_mounts_initrd.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/init/initramfs.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/usr/gen_init_cpio.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/Documentation/init.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/mm/init-mm.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/usr/initramfs_data.S",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/Documentation/debugging-via-ohci1394.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/Documentation/Intel-IOMMU.txt",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/ipc/ipcns_notifier.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/art/runtime/image.cc",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/kernel/lockdep.c",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/orion5x_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/omap2plus_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/omap1_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/nuc960_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/nuc950_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/nuc910_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/nhk8815_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/netx_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/netwinder_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/neponset_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/mxs_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/mvebu_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/mv78xx0_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/msm_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/mmp2_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/mini2440_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/marzen_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/mainstone_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/magician_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/mackerel_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/lubbock_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/lpd270_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/lpc32xx_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/lart_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/kzm9g_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/kzm9d_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/ks8695_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/kota2_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/kirkwood_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/jornada720_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/ixp4xx_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/iop33x_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/iop32x_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/iop13xx_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/integrator_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/imote2_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/hackkit_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/h5000_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/h3600_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/footbridge_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/corgi_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/collie_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/cns3420vb_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/clps711x_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/cerfcube_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/bonito_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/bockw_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/bcm_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/bcm2835_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/badge4_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1975_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/at91x40_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/at91sam9rl_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/at91sam9g45_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/at91sam9g20_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/at91sam9263_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/at91sam9261_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/at91sam9260_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/at91rm9200_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/assabet_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/armadillo800eva_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/ape6evm_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/ap4evb_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/am200epdkit_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/ag5evm_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/acs5k_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/davinci_all_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/da8xx_omapl_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/dove_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/eseries_pxa_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/em_x270_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/ezx_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/exynos_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/exynos4_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/ep93xx_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/ebsa110_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/mips/configs/decstation_defconfig",
+				"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm/configs/acs5k_tiny_defconfig"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/kernel",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/android/configs",
+					"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+					"G:\\android5.0\\MT8382_L_BD2\\system",
+					"G:\\android5.0\\MT8382_L_BD2\\system\\core",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"diff",
+					"get",
+					"ssi",
+					"lock",
+					"no_locks_held",
+					"gpl",
+					"lockdep_init_map",
+					"lockedp_init_map",
+					"init_map",
+					"EXPORT_SYMBOL_GPL",
+					"export",
+					"mutex_lock_nested",
+					"CONFIG_DEBUG_LOCKDEP",
+					"CONFIG_PROVE_LOCKING",
+					"CONFIG_LOCKDEP_SUPPORT",
+					"config_lockdep",
+					"version",
+					"modversion",
+					"version",
+					"debug_lock",
+					"config_module",
+					"config_modules",
+					"config_module",
+					"config",
+					"debug_LOCK",
+					"LOCK",
+					"LOCKDEP",
+					"insmod",
+					"inmod",
+					"insmod",
+					"emmc_support",
+					"[255",
+					"255",
+					"only init",
+					"only",
+					"mkdir",
+					"0x",
+					"0x378B",
+					"rndis",
+					"fastboot",
+					"ro.product.model",
+					"boot",
+					"fast",
+					"Fastboot",
+					"fastboot",
+					"rndis",
+					"#*\\.adb",
+					"adb",
+					"ptp",
+					"mtp",
+					"vid",
+					"ctrl+0\nctrl+0",
+					"ctrl+/",
+					"CINC",
+					"ctrl+/",
+					"imgsensor",
+					"printf",
+					"imgsensor",
+					"ifeq",
+					"printf",
+					"^[iv]",
+					"^i",
+					"int",
+					"sss",
+					"int",
+					"void",
+					"printf",
+					"print\n",
+					");\n",
+					"func",
+					"(\"%",
+					"kd_hi257",
+					"first"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"  "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/lzg/android5.0/server/aw1978/aw1978_ntfs/kernel-3.10/drivers/misc/mediatek/lcm/hx8394a_hd720_dsi_vdo_tianma/hx8394a_hd720_dsi_vdo_tianma.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 14461,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										9856,
+										9856
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"codeintel": true,
+									"codeintel_database_dir": "~/.codeintel",
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Node.js",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_exclude_scopes_from_complete_triggers":
+									[
+										"comment"
+									],
+									"codeintel_language_settings":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_exclude_dir":
+											[
+												"/build/",
+												"/min/"
+											],
+											"codeintel_scan_extra_dir":
+											[
+											],
+											"codeintel_scan_files_in_project": false,
+											"codeintel_selected_catalogs":
+											[
+												"jQuery"
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 15,
+											"codeintel_scan_exclude_dir":
+											[
+												"/Applications/MAMP/bin/php/php5.5.3/"
+											],
+											"codeintel_scan_extra_dir":
+											[
+											],
+											"codeintel_scan_files_in_project": true,
+											"php": "/Applications/MAMP/bin/php/php5.5.3/bin/php"
+										},
+										"Python3":
+										{
+											"codeintel_scan_extra_dir":
+											[
+												"/Applications/Sublime Text.app/Contents/MacOS",
+												"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/arch",
+												"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/libs"
+											],
+											"codeintel_scan_files_in_project": true,
+											"codeintel_selected_catalogs":
+											[
+											],
+											"python3": "/usr/local/bin/python3.3"
+										}
+									},
+									"codeintel_live": true,
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									[
+									],
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+									],
+									"codeintel_snippets": false,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"codeintel_word_completions": "buffer",
+									"syntax": "Packages/C++/C++.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 7447.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/lzg/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 35443,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										46,
+										46
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": null,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/lzg/android5.0/server/aw1978/aw1978_ntfs/bootable/bootloader/lk/dev/lcm/hx8394a_hd720_dsi_vdo_tianma/hx8394a_hd720_dsi_vdo_tianma.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 14461,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										9856,
+										9856
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"codeintel": true,
+									"codeintel_database_dir": "~/.codeintel",
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Node.js",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_exclude_scopes_from_complete_triggers":
+									[
+										"comment"
+									],
+									"codeintel_language_settings":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_exclude_dir":
+											[
+												"/build/",
+												"/min/"
+											],
+											"codeintel_scan_extra_dir":
+											[
+											],
+											"codeintel_scan_files_in_project": false,
+											"codeintel_selected_catalogs":
+											[
+												"jQuery"
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 15,
+											"codeintel_scan_exclude_dir":
+											[
+												"/Applications/MAMP/bin/php/php5.5.3/"
+											],
+											"codeintel_scan_extra_dir":
+											[
+											],
+											"codeintel_scan_files_in_project": true,
+											"php": "/Applications/MAMP/bin/php/php5.5.3/bin/php"
+										},
+										"Python3":
+										{
+											"codeintel_scan_extra_dir":
+											[
+												"/Applications/Sublime Text.app/Contents/MacOS",
+												"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/arch",
+												"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/libs"
+											],
+											"codeintel_scan_files_in_project": true,
+											"codeintel_selected_catalogs":
+											[
+											],
+											"python3": "/usr/local/bin/python3.3"
+										}
+									},
+									"codeintel_live": true,
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									[
+									],
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+									],
+									"codeintel_snippets": false,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"codeintel_word_completions": "buffer",
+									"syntax": "Packages/C++/C++.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 7735.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 200.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 124.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,1440,900",
+			"project": "MT8382.sublime-project",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"8394",
+						"MT8382_L_BD2/kernel-3.10/drivers/misc/mediatek/lcm/hx8394a_hd720_dsi_vdo_tianma/hx8394a_hd720_dsi_vdo_tianma.c"
+					],
+					[
+						"",
+						"MT8382_L_BD2/bootable/bootloader/lk/dev/lcm/kd070d27_new_mipi_vdo/kd070d27_new_mipi_vdo.c"
+					],
+					[
+						"kd07",
+						"MT8382_L_BD2/kernel-3.10/drivers/misc/mediatek/lcm/kd070d27_new_mipi_vdo/kd070d27_new_mipi_vdo.c"
+					],
+					[
+						"kd070",
+						"MT8382_L_BD2/bootable/bootloader/lk/dev/lcm/kd070d27_new_mipi_vdo/kd070d27_new_mipi_vdo.c"
+					],
+					[
+						"genfs",
+						"MT8382_L_BD2/device/mediatek/common/sepolicy/genfs_contexts"
+					],
+					[
+						"initrc",
+						"~/android5.0/MT8382_L_BD2/device/huaqin/aw1978/init.project.rc"
+					],
+					[
+						"initpro.rc",
+						"MT8382_L_BD2/device/huaqin/aw1978/init.project.rc"
+					],
+					[
+						"init.project.rc",
+						"MT8382_L_BD2/device/huaqin/aw1978/init.project.rc"
+					],
+					[
+						"system/vold/volume.cpp",
+						"MT8382_L_BD2/system/vold/Volume.cpp"
+					],
+					[
+						"system/vold/main.cpp",
+						"MT8382_L_BD2/system/vold/main.cpp"
+					],
+					[
+						"system/vold/android.mk",
+						"MT8382_L_BD2/system/vold/Android.mk"
+					],
+					[
+						"aw1978_debug_defconfig",
+						"MT8382_L_BD2/kernel-3.10/arch/arm/configs/aw1978_debug_defconfig"
+					],
+					[
+						"kern/mm/kmem",
+						"kernel-3.10\\mm\\kmemcheck.c"
+					],
+					[
+						"system/vold/vol",
+						"system\\vold\\Volume.cpp"
+					],
+					[
+						"system/vold/ma",
+						"system\\vold\\main.cpp"
+					],
+					[
+						"system/vold/mai",
+						"system/vold/main.cpp"
+					],
+					[
+						".ko",
+						"kernel-3.10/fs/nls/nls_koi8-u.c"
+					],
+					[
+						"initusb",
+						"device/huaqin/aw1978/init.mt6582.usb.rc"
+					],
+					[
+						"init.usb",
+						"system/core/rootdir/init.usb.rc"
+					],
+					[
+						"init.usb.rc",
+						"device/huaqin/aw1978/init.mt6582.usb.rc"
+					],
+					[
+						"k/d/lcm/",
+						"kernel-3.10/drivers/misc/mediatek/lcm/mt65xx_lcm_list.c"
+					],
+					[
+						"ke/d/lc/",
+						"kernel-3.10/drivers/scsi/lpfc/lpfc_bsg.c"
+					],
+					[
+						"driver//",
+						"frameworks/rs/driver/runtime/rs_cl.c"
+					],
+					[
+						"projectconfig",
+						"device/mediatek/tb6582p1/ProjectConfig.mk"
+					],
+					[
+						"fiele",
+						"/home/lzg/gitlib/first/source/file2.c"
+					],
+					[
+						"/home/gitl",
+						"/home/lzg/gitlib/first/source/file2.c"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"",
+						"~/android5.0/sublimeconfig/aw1978_0110.sublime-project"
+					]
 				],
 				"width": 380.0
 			},
@@ -445,23 +1661,28 @@
 			"settings":
 			{
 			},
-			"show_minimap": true,
+			"show_minimap": false,
 			"show_open_files": true,
 			"show_tabs": true,
-			"side_bar_visible": false,
-			"side_bar_width": 148.0,
+			"side_bar_visible": true,
+			"side_bar_width": 248.0,
 			"status_bar_visible": false,
 			"template_settings":
 			{
 			},
-			"window_id": 2,
-			"workspace_name": "/home/lzg/gitlib/huge/huge.sublime-workspace"
+			"window_id": 3,
+			"workspace_name": "/home/lzg/android5.0/sublimeconfig/MT8382.sublime-workspace"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
+			"/home/lzg/android5.0/sublimeconfig/MT8382.sublime-workspace",
+			"/home/lzg/android5.0/sublimeconfig/aw1978_0110.sublime-workspace",
+			"/home/lzg/gitlib/python/python_webapp/conf/webapp.sublime-workspace",
+			"/home/lzg/考勤系统/到 Sign_In 的链接/sigin_meteor.sublime-workspace",
+			"/home/lzg/a1986/base_on_aw6018.sublimeconfig/base_on_aw6018.sublime-workspace",
 			"/home/lzg/gitlib/huge/huge.sublime-workspace"
 		]
 	}
